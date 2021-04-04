@@ -1,0 +1,6 @@
+setup.py
+mafia.egg-info/PKG-INFO
+mafia.egg-info/SOURCES.txt
+mafia.egg-info/dependency_links.txt
+mafia.egg-info/requires.txt
+mafia.egg-info/top_level.txt
